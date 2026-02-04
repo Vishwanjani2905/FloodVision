@@ -1,11 +1,11 @@
 # FloodVision: Flood Risk Prediction and Disaster Awareness Platform Using Machine Learning
 
-#Overview
+Overview
 AquaShield AI is a Machine Learning–based Flood Risk Prediction and Impact Assessment platform designed to analyze environmental and geographic conditions to estimate flood risk levels.
 This system functions as a data-driven decision support and awareness tool. Users provide environmental inputs, and the trained ML model predicts flood risk and potential impact severity.
 **This is not a real-time alerting system, but a predictive and educational platform built for analysis, preparedness, and disaster awareness.
 
-#Objectives
+Objectives
 1.Predict flood risk using Machine Learning
 2.Estimate possible impact severity and damge in INR
 3.Increase disaster awareness
@@ -28,7 +28,7 @@ Feature and	Purpose
  Impervious factor : Measures non-absorbent surfaces
  Land cover index : Identifies land type; determines water absorption and runoff behavior.
 
-##* Key Features
+ Key Features
 # Flood Risk Prediction
 Users input environmental values, and the ML model predicts flood risk level.
 # Impact Assessment
@@ -43,7 +43,7 @@ Causes and warning indicators
 Important emergency contact numbers
 Links to NGOs and relief organizations
 
-# Safety Guidelines
+ Safety Guidelines
 Before Flood
 During Flood
 After Flood
@@ -67,7 +67,7 @@ Safety guidelines, contacts, and NGO information
 
 
 
-##** Technologies Used
+ Technologies Used
 
 Python
 Scikit-learn
@@ -77,7 +77,7 @@ Mapping: Leaflet
 Web Framework: (Streamlit)
 
 
-##*Social Impact
+Social Impact
 
 Floods are among the most destructive natural disasters.
 This system helps:
@@ -91,7 +91,7 @@ Assist in understanding risk zones
 Encourage data-driven disaster planning
 
 
-##*Future Scope
+Future Scope
 
 Real-time weather API integration
 Automated flood alerts
@@ -99,5 +99,5 @@ Satellite data incorporation
 Mobile application version
 Government disaster management integration
 
- ##*Conclusion
+ Conclusion
 FloodVision AI demonstrates how Machine Learning and geographic intelligence can be used to improve flood risk understanding and community awareness. It serves as a predictive support tool for better disaster preparedness.
