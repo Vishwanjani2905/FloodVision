@@ -7,13 +7,18 @@ This system functions as a data-driven decision support and awareness tool. User
 
 # Objectives:
 1.Predict flood risk using Machine Learning
+
 2.Estimate possible impact severity and damge in INR
+
 3.Increase disaster awareness
+
 4.Provide safety guidelines
+
 5.Share emergency contacts and NGO resources
+
 6.Visualize flood-prone areas on interactive maps
 
-Prediction Parameters (Model Features)
+# Prediction Parameters (Model Features)
 
 The ML model uses multiple environmental and geographic factors:
 
@@ -68,11 +73,16 @@ Safety guidelines, contacts, and NGO information
 
 # Technologies Used
 
-Python,
-Scikit-learn,
-ML models: Classification and regression,
-Geospatial Data: For training and testing,
-Mapping: Leaflet,
+Python
+
+Scikit-learn
+
+ML models: Classification and regression
+
+Geospatial Data: For training and testing
+
+Mapping: Leaflet
+
 Web Framework: (Streamlit)
 
 
@@ -90,10 +100,14 @@ Encourage data-driven disaster planning
 
 
 # Future Scope
-Real-time weather API integration,
-Automated flood alerts,
-Satellite data incorporation,
-Mobile application version,
+Real-time weather API integration
+
+Automated flood alerts
+
+Satellite data incorporation
+
+Mobile application version
+
 Government disaster management integration
 
 # Conlusion
