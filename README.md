@@ -44,35 +44,35 @@ Important emergency contact numbers
 Links to NGOs and relief organizations
 
 # Safety Guidelines
-Before Flood
-During Flood
+Before Flood, 
+During Flood,
 After Flood
 
-System Architecture
+# System Architecture
 
-Data Input Layer
+# Data Input Layer
 User-provided rainfall and geographic data
 
-ML Processing Layer
+# ML Processing Layer
 Feature engineering and trained prediction model
 
-Risk Assessment Engine
+# Risk Assessment Engine
 Generates flood risk probability and severity
 
-Visualization Layer
+# Visualization Layer
 Map-based flood impact display
 
-Awareness & Support Module
+# Awareness & Support Module
 Safety guidelines, contacts, and NGO information
 
 
-Technologies Used
+# Technologies Used
 
-Python
-Scikit-learn
-ML models: Classification and regression
-Geospatial Data: For training and testing
-Mapping: Leaflet
+Python,
+Scikit-learn,
+ML models: Classification and regression,
+Geospatial Data: For training and testing,
+Mapping: Leaflet,
 Web Framework: (Streamlit)
 
 
@@ -80,20 +80,20 @@ Web Framework: (Streamlit)
 Floods are among the most destructive natural disasters.
 This system helps:
 
-Improve preparedness
+Improve preparedness,
 
-Support awareness and education
+Support awareness and education,
 
-Assist in understanding risk zones
+Assist in understanding risk zones,
 
 Encourage data-driven disaster planning
 
 
 # Future Scope
-Real-time weather API integration
-Automated flood alerts
-Satellite data incorporation
-Mobile application version
+Real-time weather API integration,
+Automated flood alerts,
+Satellite data incorporation,
+Mobile application version,
 Government disaster management integration
 
 # Conlusion
