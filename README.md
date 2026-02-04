@@ -23,14 +23,23 @@ This system functions as a data-driven decision support and awareness tool. User
 The ML model uses multiple environmental and geographic factors:
 
 Feature and	Purpose
+
  Rainfall (1-day average) :	Detects immediate flood triggers
+ 
  Rainfall (7-day average) :	Short-term water accumulation
+ 
  Rainfall (1-month average)	Long-term ground saturation
+ 
  Location Details : Longitude and Latitude
+ 
  Nearby Water Bodies	: Identifies overflow risk from rivers/lakes
+ 
  Elevation :	Low-lying areas have higher flood probability
+ 
  Geographic Data	:  land characteristics
+ 
  Impervious factor : Measures non-absorbent surfaces
+ 
  Land cover index : Identifies land type; determines water absorption and runoff behavior.
 
 # Key Features
@@ -40,12 +49,15 @@ Users input environmental values, and the ML model predicts flood risk level.
 Estimates severity and possible affected zones.
 # Interactive Impact Maps
 Map-based visualization of flood-prone regions
+
 Helps understand geographic risk distribution
 # Flood Awareness Module
 Facts about floods
+
 Causes and warning indicators
 # Emergency Support Information
 Important emergency contact numbers
+
 Links to NGOs and relief organizations
 
 # Safety Guidelines
