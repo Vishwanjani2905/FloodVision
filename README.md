@@ -1,7 +1,7 @@
 # FloodVision: Flood Risk Prediction and Disaster Awareness Platform Using Machine Learning
 
 # Overview: 
-AquaShield AI is a Machine Learning–based Flood Risk Prediction and Impact Assessment platform designed to analyze environmental and geographic conditions to estimate flood risk levels.
+This is a Machine Learning–based Flood Risk Prediction and Impact Assessment platform designed to analyze environmental and geographic conditions to estimate flood risk levels.
 This system functions as a data-driven decision support and awareness tool. Users provide environmental inputs, and the trained ML model predicts flood risk and potential impact severity.
 **This is not a real-time alerting system, but a predictive and educational platform built for analysis, preparedness, and disaster awareness.
 
